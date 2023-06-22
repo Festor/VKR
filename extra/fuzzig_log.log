@@ -1,0 +1,26 @@
+2023-06-21 19:54:39,243 Start fuzzing
+2023-06-21 19:54:39,261 Case 0
+2023-06-21 19:54:39,261 arg=
+2023-06-21 19:54:40,618 stdout=
+2023-06-21 19:54:40,619 stderr=QProcess: Destroyed while process ("TestApp.exe") is still running.
+2023-06-21 19:54:40,619 covfile=2023-06-21 19_54_40.619 drcov.TestApp.exe.19760.0000.proc.log
+2023-06-21 19:54:40,620 Case 1
+2023-06-21 19:54:40,620 arg=d
+2023-06-21 19:54:41,919 stdout=
+2023-06-21 19:54:41,919 stderr=QProcess: Destroyed while process ("TestApp.exe") is still running.
+2023-06-21 19:54:41,919 covfile=2023-06-21 19_54_41.919 drcov.TestApp.exe.30340.0000.proc.log
+2023-06-21 19:54:41,920 Case 2
+2023-06-21 19:54:41,920 arg=yqmrk
+2023-06-21 19:54:43,320 stdout=
+2023-06-21 19:54:43,320 stderr=QProcess: Destroyed while process ("TestApp.exe") is still running.
+2023-06-21 19:54:43,321 covfile=2023-06-21 19_54_43.321 drcov.TestApp.exe.29368.0000.proc.log
+2023-06-21 19:54:43,322 Case 3
+2023-06-21 19:54:43,322 arg=ygzcoc
+2023-06-21 19:54:44,720 stdout=
+2023-06-21 19:54:44,720 stderr=QProcess: Destroyed while process ("TestApp.exe") is still running.
+2023-06-21 19:54:44,747 covfile=2023-06-21 19_54_44.721 drcov.TestApp.exe.24252.0000.proc.log
+2023-06-21 19:54:44,748 Case 4
+2023-06-21 19:54:44,748 arg=mdb
+2023-06-21 19:54:46,086 stdout=
+2023-06-21 19:54:46,086 stderr=QProcess: Destroyed while process ("TestApp.exe") is still running.
+2023-06-21 19:54:46,087 covfile=2023-06-21 19_54_46.087 drcov.TestApp.exe.28112.0000.proc.log
