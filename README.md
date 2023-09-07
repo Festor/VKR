@@ -18,18 +18,18 @@
 
 ## Схема средства автоматизации
 
-<img src='https://github.com/Festor/VKR/tree/main/scheme.png'>
+<img src='https://github.com/Festor/VKR/raw/main/scheme.png'>
 
 <br>
 
 ## Описание работы модулей
 
-<img src='https://github.com/Festor/VKR/tree/main/description.png'>
+<img src='https://github.com/Festor/VKR/raw/main/description.png'>
 
 <br>
 
 ## Карта покрытия в Cutter
 
-<img src='https://github.com/Festor/VKR/tree/main/coverage.png'>
+<img src='https://github.com/Festor/VKR/raw/main/coverage.png'>
 
 
