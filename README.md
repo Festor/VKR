@@ -11,7 +11,7 @@
 
 <br>
 
-## Usage
+## Применение
 Для генерации файла покрытия по результату события фаззера применяется инструмент DynamoRIO - https://dynamorio.org/
 
 <br>
@@ -25,10 +25,6 @@
 ## Описание работы модулей
 
 <img src='https://github.com/Festor/VKR/tree/main/description.png'>
-
-<br>
-
-## Результат
 
 <br>
 
